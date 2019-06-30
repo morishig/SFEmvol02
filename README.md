@@ -21,7 +21,10 @@ Author: Guillermo Morishige
 
 Submitted: Sun, June 30 2019 by Guillermo Morishige
 
-Datafiles : None
+Datafiles: None
+
+Example: Estimated variance and covariance for DAX and FTSE 100
+returns from 2007-2019 using a DCC-GARCH(1,1) model 
 
 ```
 
