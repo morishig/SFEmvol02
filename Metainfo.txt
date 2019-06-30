@@ -1,0 +1,9 @@
+Name of QuantLet: SFEmvol02
+Published in: Statistics of Financial Markets
+Description: 'Estimates parameters of a multivariate GARCH model for the daily log-returns 
+of DAX and FTSE100 from 01.01.2007 to 29.06.2019. It also plots the estimated variance and 
+covariance processes.'
+Keywords: covariance, garch, multivariate analysis, volatility, log-returns
+See also: SFEmvol1
+Author: Guillermo Takane
+Submitted: Sun, June 30 2019 by Guillermo Morishige
